@@ -1,2 +1,2 @@
 # projectEuler
-Learning Rust by solving problems of Euler Project
+Solving problems of Project Euler - https://projecteuler.net/ using Rust.
